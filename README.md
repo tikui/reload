@@ -3,7 +3,7 @@
 
 It's a fork of [reload](https://github.com/alallier/reload). If the original repo become active again, this repository will be deleted.
 
-[![Build Status](https://github.com/tikui/reload/workflows/CI/badge.svg)](https://github.com/tikui/reload/actions?query=workflow%3ACI)
+[![Build Status](https://github.com/tikui/reload/workflows/Node%20CI/badge.svg)](https://github.com/tikui/reload/actions/workflows/ci.yml)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 Automatically refresh and reload your code in your browser when your code changes. No browser plugins required.
